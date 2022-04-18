@@ -1,0 +1,4 @@
+# Notas:
+
+```
+App para geolicalización
