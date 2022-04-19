@@ -1,0 +1,27 @@
+{
+  "name": "6",
+  "version": "1.0.0",
+  "description": "```\r App para geolicalización",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcortesbalboa/node-geolocalizacion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcortesbalboa/node-geolocalizacion/issues"
+  },
+  "homepage": "https://github.com/dcortesbalboa/node-geolocalizacion#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "inquirer": "^8.2.2"
+  }
+}
